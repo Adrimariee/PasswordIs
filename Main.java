@@ -8,11 +8,14 @@ class Main {
       Boolean secretdiary = false;
          Boolean password126 = true; 
 
-      If (sec)
+      If (secretdiary)
       {
-
+        System.out.println ("Wrong password, please try again");
       }
-
+      else 
+      {
+        System.out.println ("Correct! logging in now..."); 
+      }
 
   }
 }
