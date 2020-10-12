@@ -5,5 +5,14 @@ class Main {
     System.out.println ("Welcome to My Virtual Diary™");
     System.out.println ("Enter password ---");
 
+      Boolean secretdiary = false;
+         Boolean password126 = true; 
+
+      If (sec)
+      {
+
+      }
+
+
   }
 }
