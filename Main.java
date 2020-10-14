@@ -5,14 +5,14 @@ class Main {
     System.out.println ("Welcome to My Virtual Diary™");
     System.out.println ("Enter password ---");
 
-       boolean password816 = false;
-       boolean mysecrets212= true;
+       boolean password816 = true;
+       boolean mysecrets212= false;
 
-      if (password816)
+      if (mysecrets212)
       {
       System.out.println ("Wrong password, please try again");
       }
-      else 
+      else if (password212)
       {
           System.out.println ("Correct! logging in now..."); 
       }
