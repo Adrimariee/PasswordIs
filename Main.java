@@ -20,8 +20,9 @@ class Main {
      System.out.println("on a scale of 1 to 10 how do you feel today?");
      System.out.print("1 being awful and 10 being spectacluar!");
 
-      Int count=1;
+      int count=1;
       while (count <= 10)
+      count++;
       
 
 
