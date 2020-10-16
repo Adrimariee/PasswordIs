@@ -17,7 +17,8 @@ class Main {
           System.out.println ("Correct! logging in now..."); 
       }
        
-      System.out.println("on a scale of 1 to 10 how do you feel today");
+      System.out.println("on a scale of 1 to 10 how do you feel today?");
+      System.out.print ("1 being awful and 10 being spectacluar!");
       
 
   }
