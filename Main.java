@@ -12,11 +12,12 @@ class Main {
       {
       System.out.println ("Wrong password, please try again");
       }
-      else if (password212)
+      else if (password816)
       {
           System.out.println ("Correct! logging in now..."); 
       }
        
+      System.out.println("on a scale of 1 to 10 how do you feel today");
       
 
   }
