@@ -1,8 +1,9 @@
+import java.util.Scanner;
+
 class Main {
   public static void main(String[] args) {
-    
-    System.out.println ("Hello!");
-    System.out.println ("Welcome to My Virtual Diary™");
+
+    System.out.println ("Hello and welcome to My Virtual Diary™");
     System.out.println ("Enter password ---");
 
        boolean password816 = true;
@@ -17,14 +18,13 @@ class Main {
           System.out.println ("Correct! logging in now..."); 
       }
        
+       Scanner scan =new Scanner(System.in); 
      System.out.println("on a scale of 1 to 10 how do you feel today?");
-     System.out.print("1 being awful and 10 being spectacluar!");
+     int scale = scan.nextInt()
 
-      int count=1;
-      while (count <= 10)
-      count++;
-      
+    
 
-
+    
   }
 }
+
