@@ -19,8 +19,8 @@ class Main {
       }
        
        Scanner scan =new Scanner(System.in); 
-     System.out.println("on a scale of 1 to 10 how do you feel today?");
-     int scale = scan.nextInt()
+       System.out.println("How are you today?");
+      scan quote = scan.next();
 
     
 
